@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Knight0.5</string>
+    <string name="prompt">Please choose a difficulty</string>
+</resources>
